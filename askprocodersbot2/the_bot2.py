@@ -5,10 +5,10 @@ import os
 
 
 print("this bot is working")
-CONSUMER_KEY = '7di1l1zH2exr1LwrlC9fbt9Fp'
-CONSUMER_SECRET = 'sqwgFgssleBF7LyikH9eAjKsEsj2F2Ggqvdk3LLLqXZxFGkLsU'
-ACCESS_KEY = '1132924430143905792-QQhRZjWMzEpUSbSTGXG65hBwalwz3H'
-ACCESS_SECRET = 'uOg33UdvMLHwwnDgA5b1WLtoyhK7DK55ppvT5wN0Av58L'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+ACCESS_KEY = ''
+ACCESS_SECRET = ''
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY , CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY , ACCESS_SECRET)
